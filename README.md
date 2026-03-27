@@ -1,6 +1,8 @@
 # Estudo de Frontend
 
-Este repositório reúne meus estudos e projetos desenvolvidos durante o curso de Frontend na Udemy. O objetivo é versionar e compartilhar códigos à medida que avanço no conteúdo, incluindo exercícios, exemplos e projetos práticos de HTML, CSS, JavaScript, React e TypeScript.
+Este repositório reúne meus estudos e projetos desenvolvidos durante o curso de Frontend na Udemy. A ideia é começar do básico para adquirir e relembrar conhecimentos de desenvolvimento fullstack, passando por todas as etapas essenciais do frontend e backend. O objetivo é versionar e compartilhar códigos à medida que avanço no conteúdo, incluindo exercícios, exemplos e projetos práticos de HTML, CSS, JavaScript, React e TypeScript.
+
+---
 
 ---
 
