@@ -6,8 +6,17 @@ h3 {
     color: goldenrod;
 }
 
+/* Isso é uma classe: para utilizar em elementos que se repetem */
 .paragraph {
     background-color: black;
     color: aqua;
     padding: 5px;
 }
+
+/* Isso é um id: para utilizar em elementos unicos na pagina */
+#exclusive-title {
+    background-color: chocolate;
+    color: black
+}
+
+/* id > class > seletor_tag */
