@@ -5,3 +5,9 @@ body {
 h3 {
     color: goldenrod;
 }
+
+.paragraph {
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
